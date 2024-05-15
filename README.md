@@ -1,1 +1,1 @@
-# Repositório do projeto de sita da Pizzaria Mil Graus
+# Repositório do projeto de site da Pizzaria Mil Graus
