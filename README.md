@@ -1,1 +1,2 @@
-# Repositório do projeto de site da Pizzaria Mil Graus
+# Repositório do projeto final front-end 
+# Pizzaria Mil Graus
